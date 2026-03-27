@@ -4,9 +4,10 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 // 使用 withMermaid 包裹原本的 defineConfig
 export default withMermaid({
   // 这里放您之前的全部配置 (title, themeConfig 等)
-  title: "Java Web 开发技术",
-  description: "武汉商学院 - 计算机与自动化学院 - 教学文档库",
-  base: '/tech/',
+  title: "软件开发技术文档",
+  description: "软件开发技术文档 - 教学文档库",
+  //自定义域名 将 base 从 '/tech/' 改为 '/'
+  base: '/',
   
   // Mermaid 特有配置（可选）
   mermaid: {
@@ -52,7 +53,6 @@ export default withMermaid({
             { text: '请求与响应 (Req & Resp)', link: '/doc/chapter02/03-request-response' }
           ]
         },
-        
       ],
       '/projects/': [
         {
@@ -92,7 +92,7 @@ export default withMermaid({
     // 5. 底部版权信息：体现教研身份
     footer: {
       message: '学而不厌，诲人不倦',
-      copyright: 'Copyright © 2025-present 陈德 | 武汉商学院计算机与自动化学院'
+      copyright: 'Copyright © 2025-present 陈德 | 软件开发技术文档'
     },
 
     socialLinks: [
