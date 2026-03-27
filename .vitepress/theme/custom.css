@@ -1,0 +1,21 @@
+:root {
+  /* 1. 调整基础字体大小 (默认通常是 16px) */
+  --vp-font-size-base: 18px; 
+
+  /* 2. 调整侧边栏字体大小 */
+  --vp-sidebar-font-size: 16px;
+
+  /* 3. 调整顶部导航栏字体大小 */
+  --vp-nav-font-size: 16px;
+}
+
+/* 4. 如果觉得正文行间距太挤，可以配合调整行高 */
+.vp-doc p, .vp-doc li {
+  line-height: 1.8;
+  margin: 1.2em 0;
+}
+
+/* 5. 调整标题的大小（可选） */
+.vp-doc h1 { font-size: 40px; }
+.vp-doc h2 { font-size: 30px; }
+.vp-doc h3 { font-size: 24px; }
