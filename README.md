@@ -1,5 +1,7 @@
 # 电子文档
 
+[vitepress官网](https://vitepress.dev/zh/)  
+
 使用`vitepress`编写文档
 
 ```bash
@@ -9,7 +11,7 @@ npm run docs:dev
 
 ## 计划内容
 
-### 软件开发技术（Java 技术系统）
+### 软件开发技术（Java 生态）
 
 ### 人工智能
 
