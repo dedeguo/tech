@@ -22,13 +22,13 @@ export default withMermaid({
       { 
         text: '课程大纲', 
         items: [
-          { text: '教学大纲', link: '/chapter01/01-env-setup' },
-          { text: '考核方案', link: '/chapter01/02-maven-git' }
+          { text: '教学大纲', link: '/doc/chapter01/01-env-setup' },
+          { text: '考核方案', link: '/doc/chapter01/02-maven-git' }
         ]
       },
       { text: '电子教材', link: '/doc' },
-      { text: '项目案例', link: '/projects/yudao' },
-      { text: '常用工具', link: '/resources/tools' }
+      // { text: '项目案例', link: '/projects/yudao' },
+      // { text: '常用工具', link: '/resources/tools' }
     
     ],
 
