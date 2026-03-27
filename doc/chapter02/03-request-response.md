@@ -221,8 +221,3 @@ sequenceDiagram
 * **Response** 是“输出”，用来写页面 (`getWriter`)。
 * 遇到中文**乱码**，先检查是否设置了 `setCharacterEncoding` 和 `setContentType`。
 * **转发**是内部的事（一次请求），**重定向**是外部的事（两次请求）。
-
-[下一节：会话管理 (Cookie & Session)](05-state-management.md){ .md-button .md-button--primary }
-
-
-

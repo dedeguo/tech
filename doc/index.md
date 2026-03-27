@@ -119,7 +119,7 @@ title: 课程简介
 
 
 * **🤖 AI 辅助资源**：
-    * 提供 **魔塔社区（ModelScope）** API Key [申请与使用指导](appendix/a01-account-guide/#modelscope-ai-api)。
+    * 提供 **魔塔社区（ModelScope）** API Key [申请与使用指导]。
     * 支持在实验中调用大模型能力，辅助代码生成、问题排查及智能化功能开发。
 
 ---
@@ -137,4 +137,4 @@ title: 课程简介
 ---
 
 
-*📖 下一页：[第1章 Web 开发基础与效能工具](chapter01/index.md)*
+*📖 下一页：[第1章 Web 开发基础与效能工具]*

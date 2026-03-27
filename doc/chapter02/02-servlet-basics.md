@@ -242,5 +242,3 @@ Servlet 是 Java Web 的基石。无论后续学习多么高级的框架（Sprin
 * 如何获取请求参数？
 
 这些实战技巧，我们将在下一节逐一攻克。
-
-[下一节：Request 请求对象详解](03-request-response.md){ .md-button .md-button--primary }
