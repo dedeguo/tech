@@ -1,4 +1,6 @@
-# 码途 - 技术成长笔记
+# 码途：从 Java 到 AI Agent 的全栈演进
+
+德德锅的技术成长与教学笔记
 
 [vitepress 官网](https://vitepress.dev/zh/)
 

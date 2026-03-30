@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
 export default withMermaid({
-  title: "码途",
-  description: "技术成长笔记 - 记录学习之路，探索软件开发的前沿实践",
+  title: "码途：从 Java 到 AI Agent 的全栈演进",
+  description: "德德锅的技术成长与教学笔记",
   base: '/',
 
   mermaid: {

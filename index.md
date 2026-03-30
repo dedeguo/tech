@@ -3,10 +3,10 @@ layout: home
 
 hero:
   name: "码途"
-  text: "技术成长笔记"
-  tagline: 记录学习之路，探索软件开发的前沿实践
+  text: "从 Java 到 AI Agent 的全栈演进"
+  tagline: 德德锅的技术成长与教学笔记
   image:
-    src: /logo.png
+    src: /code_path_logo.png
     alt: 码途
   actions:
     - theme: brand
